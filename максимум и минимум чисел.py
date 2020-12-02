@@ -1,0 +1,8 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+m = min(a, b, c, d)
+n = max(a, b, c, d)
+print("Минимальное число: ", m)
+print("Максимальное число ", n)
